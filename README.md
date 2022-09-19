@@ -1,1 +1,1 @@
-# EdgeService
+# EdgeService , this service will be up at port 8761 , and in this port all the client services will get register
